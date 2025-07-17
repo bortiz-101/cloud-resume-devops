@@ -6,7 +6,7 @@ A project-based learning experience designed to help individuals gain practical 
 
 - 🌐 Frontend: React/Next.js
 
-- 👔 Resume: HTML, CSS, (*Resume must include AWS Cloud Practitioner Cert*)
+- 👔 Resume: (*Resume must include AWS Cloud Practitioner Cert*)
 
 - ☁️ Cloud: AWS (S3, Lambda, DynamoDB, CloudFront, Route 53)
 
